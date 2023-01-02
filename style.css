@@ -1,0 +1,7 @@
+tr:nth-of-type(even) {
+    background-color: lightgray;
+}
+
+table {
+    border: none;
+}
